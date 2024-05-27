@@ -1,0 +1,11 @@
+# Arquivos e diretórios do ambiente virtual
+miraienv/
+
+# Byte-compiled / compiled files
+*.pyc
+__pycache__/
+
+# Diretórios
+/assets/
+/componentes/__pycache__/
+/frames/__pycache__/
