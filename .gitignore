@@ -6,6 +6,5 @@ miraienv/
 __pycache__/
 
 # Diretórios
-/assets/
 /componentes/__pycache__/
 /frames/__pycache__/
