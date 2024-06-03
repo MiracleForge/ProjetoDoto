@@ -1,8 +1,8 @@
-from tkinter import Tk
+import customtkinter
 from componentes.Window_main import WindowMain
 
-def main(): 
-    root = Tk()
+def main():
+    root = customtkinter.CTk()  # Usando CTk em vez de Tk
     app = WindowMain(root)
     app.mainloop()
 
